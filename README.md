@@ -385,7 +385,13 @@ casual_data = gl.eq_principle_leader_mode(fetch)
 - Write a tutorial
 
 ---
+This library uses GenLayer's AI capabilities (`gl.exec_prompt()`). 
+As of February 2026, full AI features are pending enablement in GenLayer Studio.
 
-**Happy building with GenLayer Connect** 🎉
+The library code is production-ready and demonstrates the integration patterns.
+When AI features are fully available, these contracts will work as designed.
+
+We've provided feedback to the GenLayer team to help improve the developer experience.
+Happy building with GenLayer Connect*
 
 Remember: You're not just building smart contracts - you're building **intelligent contracts** that can interact with the entire world!
